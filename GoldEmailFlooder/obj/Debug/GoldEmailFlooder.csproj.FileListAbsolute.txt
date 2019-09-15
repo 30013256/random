@@ -1,0 +1,16 @@
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\GoldEmailFlooder.exe.config
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\GoldEmailFlooder.exe
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\GoldEmailFlooder.pdb
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\MailKit.dll
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\MimeKit.dll
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\MailKit.xml
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\bin\Debug\MimeKit.xml
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.Form1.resources
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.Properties.Resources.resources
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.csproj.GenerateResource.cache
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.csproj.CoreCompileInputs.cache
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.csproj.CopyComplete
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.exe
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.pdb
+C:\Users\jacluie\source\repos\ConsoleApp7\GoldEmailFlooder\obj\Debug\GoldEmailFlooder.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\MailKit.dll
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\MimeKit.dll
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\MailKit.xml
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\MimeKit.xml
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CopyComplete
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\jacluie\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
